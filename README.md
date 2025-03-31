@@ -55,3 +55,6 @@ Google Chrome: Used for testing the responsiveness and functionality of the web 
 🔚 Conclusion:
 
 This project showcases my ability to develop a responsive and interactive frontend using HTML, CSS, and JavaScript. It demonstrates my skills in designing a user-friendly interface and implementing modern web development techniques for an enhanced learning experience.
+
+OUTPUT:-
+![Image](https://github.com/user-attachments/assets/1b0dc963-4a94-4d15-994b-8ea8037f1ec8)
